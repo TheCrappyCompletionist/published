@@ -39,12 +39,12 @@ font-weight: bold;
 font-size:20px;
 text-align: left;
 }
+.centered {
+text-align: center;
+}
 p {
 text-align: left;
 margin-left: 15px;
-}
-centered {
-text-align: center;
 }
 code {
 text-align: left;
